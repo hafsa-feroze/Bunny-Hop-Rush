@@ -2,6 +2,14 @@
 
 A retro DOS game written entirely in x86 16-bit real-mode assembly (NASM). Guide a bunny across a horizontally patrolling slab, timing your jumps to grab fruit and rack up points before you fall or the slab breaks beneath you.
 
+## Getting Started
+
+clone the project:
+
+```
+git clone 
+```
+
 ## Gameplay
 
 - The bunny stands on a colored bar that continuously patrols left and right across the screen.
