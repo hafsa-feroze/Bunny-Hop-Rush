@@ -7,7 +7,7 @@ A retro DOS game written entirely in x86 16-bit real-mode assembly (NASM). Guide
 clone the project:
 
 ```
-git clone 
+git clone https://github.com/hafsa-feroze/Bunny-Hop-Rush.git
 ```
 
 ## Gameplay
