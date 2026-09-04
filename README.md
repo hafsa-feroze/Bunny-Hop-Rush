@@ -9,24 +9,6 @@ clone the project:
 ```
 git clone https://github.com/hafsa-feroze/Bunny-Hop-Rush.git
 ```
-
-## Gameplay
-
-- The bunny stands on a colored bar that continuously patrols left and right across the screen.
-- Press **Up Arrow** to make the bunny hop.
-- Land on a fruit (`o`) to score **10 points**.
-- The bar cycles through orange, red, and blue. While the bar is **blue**, a countdown starts — jump before it runs out or the brick breaks and it's game over.
-- Falling off the slab (missing your landing) also ends the game.
-- Your final score is shown on the Game Over screen.
-
-## Controls
-
-| Key | Action |
-|-----|--------|
-| `Up Arrow` | Jump |
-| `Esc` | Pause / quit confirmation |
-| `Enter` | Confirm on prompts |
-
 ## Requirements
 
 - [NASM](https://www.nasm.us/) — to assemble the source into a `.com` executable.
@@ -54,6 +36,24 @@ This produces `project.com`, a flat 16-bit DOS binary.
    ```
    project
    ```
+## Gameplay
+
+- The bunny stands on a colored bar that continuously patrols left and right across the screen.
+- Press **Up Arrow** to make the bunny hop.
+- Land on a fruit (`o`) to score **10 points**.
+- The bar cycles through orange, red, and blue. While the bar is **blue**, a countdown starts — jump before it runs out or the brick breaks and it's game over.
+- Falling off the slab (missing your landing) also ends the game.
+- Your final score is shown on the Game Over screen.
+
+## Controls
+
+| Key | Action |
+|-----|--------|
+| `Up Arrow` | Jump |
+| `Esc` | Pause / quit confirmation |
+| `Enter` | Confirm on prompts |
+
+
 
 ## Project Structure
 
